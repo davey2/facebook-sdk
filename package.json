@@ -1,0 +1,14 @@
+{
+	"name": "facebook-sdk",
+	"version": "1.0.0",
+	"main": "src/index.ts",
+	"scripts": {
+		"build": "tsc -p ."
+	},
+	"dependencies": {
+		"axios": "^0.21.1"
+	},
+	"devDependencies": {
+		"typescript": "^4.3.5"
+	}
+}
